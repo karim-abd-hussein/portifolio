@@ -1,0 +1,28 @@
+[
+
+    {
+        "title":"Notify Me Application",
+        "image":"two-side-chat-board.png",
+        "description":"The Notify Me application is a robust notification and messaging system built using NestJS and TypeScript, adhering to SOLID principles. It incorporates Socket.IO for real-time chat, JWT for authentication, and MongoDB with Mongoose for data storage.",
+        "type":"Full-stack",
+        "github":"https://github.com/karim-abd-hussein/Notify-ME",
+        "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
+     },
+     {
+        "title":"Notify Me Application",
+        "image":"two-side-chat-board.png",
+        "description":"The Notify Me application is a robust notification and messaging system built using NestJS and TypeScript, adhering to SOLID principles. It incorporates Socket.IO for real-time chat, JWT for authentication, and MongoDB with Mongoose for data storage.",
+        "type":"Full-stack",
+        "github":"https://github.com/karim-abd-hussein/Notify-ME",
+        "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
+     },
+     {
+        "title":"Notify Me Application",
+        "image":"two-side-chat-board.png",
+        "description":"The Notify Me application is a robust notification and messaging system built using NestJS and TypeScript, adhering to SOLID principles. It incorporates Socket.IO for real-time chat, JWT for authentication, and MongoDB with Mongoose for data storage.",
+        "type":"Full-stack",
+        "github":"https://github.com/karim-abd-hussein/Notify-ME",
+        "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
+     }
+
+] 
