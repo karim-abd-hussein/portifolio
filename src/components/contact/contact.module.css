@@ -1,0 +1,39 @@
+.contact{
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.contact >h2{
+
+    color: var(--secondary-background-color);
+}
+
+.contactContainer{
+
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 50em;
+    margin: auto;
+}
+
+.contactContainer a{
+    background-color: var(--secondary-background-color);
+    margin: 1em 0;
+    border-radius: 10px;
+    padding: 5px;
+    width: fit-content;
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin: 1em;
+}
+
+.contactContainer strong{
+
+    margin:0 8px ;
+}

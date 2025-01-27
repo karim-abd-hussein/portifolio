@@ -1,0 +1,39 @@
+.header{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color:var(--secondary-background-color);
+
+}
+
+.ul{
+
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    max-width: 35em;
+    flex-wrap: wrap;
+}
+
+.ul li{
+
+    margin: 0;
+}
+
+.ul li a{
+
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+
+    width: 10%;
+}

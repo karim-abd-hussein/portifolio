@@ -1,0 +1,26 @@
+:root {
+
+  --background-color:gray;
+  --secondary-background-color:lightgray;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+
+  background-color: var(--background-color);
+  
+
+}
+
+.sectionTitle{
+
+  margin: 2em 0;
+
+}
+
