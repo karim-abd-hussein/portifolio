@@ -1,0 +1,44 @@
+[
+
+    {
+    "title":"Simple Recipe Page",
+    "image":"recipe.jpg",
+    "description":"A clean and responsive recipe page built using HTML and CSS. This project showcases a classic omelette recipe with a detailed preparation guide, ingredients list, nutritional information, and visually appealing design.",
+    "type":"Front-end",
+    "github":"https://github.com/karim-abd-hussein/Recipe",
+    "website":"https://karim-abd-hussein.github.io/Recipe/"
+    },
+    {
+        "title":"NFT Preview Card Component",
+        "image":"NFT-card.jpg",
+        "description":"A visually appealing and interactive NFT preview card component, designed to showcase NFT details such as name, price, availability, and creator information. Built with HTML and CSS, this component includes hover effects and is fully responsive.",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/NFT-card",
+        "website":"https://karim-abd-hussein.github.io/NFT-card/"
+    },
+    {
+        "title":"Profile Card Component",
+        "image":"profile-card.jpg",
+        "description":"This project is a simple Profile Card Component, designed as part of a challenge from Frontend Mentor. It demonstrates responsive design principles and CSS styling techniques to create an elegant user profile card.",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/profile-card",
+        "website":"https://karim-abd-hussein.github.io/profile-card/"
+    },
+    {
+        "title":"Product Preview Card Component",
+        "image":"product-preview-card.png",
+        "description":"This project is a responsive product preview card component built as part of a challenge on Frontend Mentor. The card features a perfume product with details including name, description, pricing, and an 'Add to Cart' button.",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/product-card.git",
+        "website":"https://karim-abd-hussein.github.io/product-card/"
+    },
+    {
+        "title":"Results Summary Component",
+        "image":"results-summary.jpg",
+        "description":"This challenge involves creating a responsive results summary component based on the provided design and specifications.",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/Results-summary-component.git",
+        "website":"https://karim-abd-hussein.github.io/Results-summary-component/"
+    }
+
+]
