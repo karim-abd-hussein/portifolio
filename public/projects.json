@@ -9,20 +9,27 @@
         "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
      },
      {
-        "title":"Notify Me Application",
-        "image":"two-side-chat-board.png",
-        "description":"The Notify Me application is a robust notification and messaging system built using NestJS and TypeScript, adhering to SOLID principles. It incorporates Socket.IO for real-time chat, JWT for authentication, and MongoDB with Mongoose for data storage.",
-        "type":"Full-stack",
-        "github":"https://github.com/karim-abd-hussein/Notify-ME",
-        "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
+        "title":"Delivery Application",
+        "image":"delivery-app.png",
+        "description":"The Delivery-Application backend is the server-side implementation for a delivery service application. It provides RESTful APIs for managing stores, products, orders, and users, including real-time notifications. ",
+        "type":"Back-end",
+        "github":"https://github.com/karim-abd-hussein/delivery-app",
+        "website":"https://github.com/karim-abd-hussein/delivery-app"
      },
      {
-        "title":"Notify Me Application",
-        "image":"two-side-chat-board.png",
-        "description":"The Notify Me application is a robust notification and messaging system built using NestJS and TypeScript, adhering to SOLID principles. It incorporates Socket.IO for real-time chat, JWT for authentication, and MongoDB with Mongoose for data storage.",
-        "type":"Full-stack",
-        "github":"https://github.com/karim-abd-hussein/Notify-ME",
-        "website":"https://github.com/karim-abd-hussein/Notify-ME-Front-end.git"
-     }
-
+        "title":"Drug Store ",
+        "image":"drug-store.png",
+        "description":"This is a Node.js backend application for managing a drug store using Express.js, Socket.IO, JWT (JSON Web Tokens),Mysql, and RESTful API architecture. The application allows secure user authentication and real-time updates while providing a scalable and efficient backend for the drug store's operations.",
+        "type":"Back-end",
+        "github":"https://github.com/karim-abd-hussein/Drugs-store",
+        "website":"https://github.com/karim-abd-hussein/Drugs-store"
+     },
+     {
+      "title":"REST Countries API",
+      "image":"rest-countries-api.jpg",
+      "description":"This React web app fetches country details from the REST Countries API, features a light/dark mode switch, and has a responsive design. ✅ Successfully deployed on Vercel! 🚀",
+      "type":"Front-end",
+      "github":"https://github.com/karim-abd-hussein/countries",
+      "website":"https://countries-mrfgb22fb-karim-husseins-projects.vercel.app/"
+   }
 ] 

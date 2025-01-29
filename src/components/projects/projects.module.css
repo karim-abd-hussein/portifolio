@@ -27,14 +27,15 @@
     flex-wrap: wrap;
     gap: 1.5em;
     
-
 }
- .cards > div{
+ 
+.cards > div{
 
     width: 20em;
     background-color: var(--secondary-background-color);
     margin:auto;
-    
+    border-radius: 15px;
+    overflow: hidden;
 
 }
 
@@ -80,4 +81,7 @@ color: inherit;
     margin-top: -6px;
     color: rgb(172, 172, 172);
     margin-bottom: 5px;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    text-transform: capitalize;
 }
