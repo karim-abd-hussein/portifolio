@@ -38,3 +38,73 @@
 
     width: 10%;
 }
+
+.menu{
+
+    display: none;
+    position: relative;
+    cursor: pointer;
+}
+
+.dropMenuContainer{
+
+    background-color: var(--Very-Light-Gray-Light-Mode-Background);
+    width: 7em;
+    position: absolute;
+    top:45px ;
+    right: 0;
+
+}
+
+.dropMenuContainerHidden{
+
+    display: none;
+}
+
+.menu:hover .dropMenuContainer{
+
+display: block;
+
+}
+
+.dropMenu{
+
+   list-style: none;
+
+
+}
+
+.dropMenu li{
+
+    padding: 3px 5px;
+
+}
+
+.dropMenu li:hover{
+
+    padding-left: 7px;
+    transition: 300ms;
+}
+
+.dropMenu a{
+
+    color: var(--Very-Dark-Blue-Light-Mode-Text);
+    text-decoration: none;
+    width: fit-content;
+}
+
+
+@media (max-width:711px){
+
+    .ul{
+
+        display: none;
+    }
+
+    .menu{
+
+        display: block;
+
+    }
+
+}
