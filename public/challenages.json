@@ -37,8 +37,16 @@
         "image":"results-summary.jpg",
         "description":"This challenge involves creating a responsive results summary component based on the provided design and specifications.",
         "type":"Front-end",
-        "github":"https://github.com/karim-abd-hussein/Results-summary-component.git",
+        "github":"https://github.com/karim-abd-hussein/Results-summary-component",
         "website":"https://karim-abd-hussein.github.io/Results-summary-component/"
+    },
+    {
+        "title":"Age Calculator App",
+        "image":"age-calculator.jpg",
+        "description":"A simple Age Calculator web app built to calculate your age in years, months, and days based on the given date of birth. The app provides validation for incorrect or empty input.",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/age-calculator",
+        "website":"https://age-calculator-sand-ten.vercel.app/"
     }
 
 ]
