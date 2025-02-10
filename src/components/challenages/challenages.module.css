@@ -1,0 +1,84 @@
+.challenagesContainer{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cards{
+
+    display: flex;
+    align-items:flex-start;
+    overflow-x: auto;
+    width:100%;
+    scroll-behavior: smooth;
+    gap: 1.5em; 
+    padding: 10px;
+    
+}
+
+.card{
+
+    max-width:20em;
+    min-width: 20em;
+    background-color: var(--Dark-Blue-Dark-Mode-Elements);
+    color: var(--White-Dark-Mode-Text-Light-Mode-Elements);
+    border-radius: 15px;
+    overflow: hidden;
+    min-height: 30em;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contentContainer{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0.5em;
+    flex-grow: 1;
+    
+}
+
+.externalLinks{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.externalLinks a{
+
+color: inherit;
+}
+
+.icon{
+
+    font-size: 1.8em;
+
+
+}
+
+.challenagesContainer img{
+
+    width: 100%;
+
+}
+
+.textContainer{
+
+
+}
+
+.textContainer h3{
+
+    margin:5px 0;
+}
+
+.textContainer p{
+    font-size: 0.9rem;
+    
+}

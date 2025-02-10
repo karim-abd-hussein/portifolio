@@ -19,6 +19,7 @@
     flex-wrap: wrap;
     max-width: 50em;
     margin: auto;
+    justify-content: center;
 }
 
 .contactContainer a{

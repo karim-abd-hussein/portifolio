@@ -34,8 +34,11 @@ export default function Projects(){
                         <div key={index}>
                             <img src={project.image} alt={project.title} />
                             <div className={Styles.textContainer}>
+                            <div className={Styles.keywordsContainer}>
+                                <p>{project.date}</p>
+                                {project.keywords.map((keyword:string, index: number)=> <div key={index}>{keyword}</div> )}
+                            </div>
                             <h3>{project.title}</h3>
-                            <h5>{project.type}</h5>
                             <p>{project.description}</p>
                             </div>
                             <div className={Styles.externalLinks}>
@@ -46,25 +49,7 @@ export default function Projects(){
                     ))}
                     </div>
         </div>
-        <div >
-        <h2  className='sectionTitle' >Challenages</h2>
-        <div className={Styles.cards}>
-        {challenages.map((project:Project, index: number) => (
-                        <div key={index}>
-                            <img src={project.image} alt={project.title} />
-                            <div className={Styles.textContainer}>
-                            <h3>{project.title}</h3>
-                            <h5>{project.type}</h5>
-                            <p>{project.description}</p>
-                            </div>
-                            <div className={Styles.externalLinks}>
-                            <a href={project.github}><FontAwesomeIcon className={Styles.icon} icon={faGithub} /></a>
-                            <a href={project.website}><FontAwesomeIcon className={Styles.icon} icon={faExternalLink} /></a>
-                            </div>
-                        </div> 
-                    ))}
-    </div>
-        </div>
+        
         </div>
     )
 }

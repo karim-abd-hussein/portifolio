@@ -6,4 +6,6 @@ export interface Project{
     github:string;
     website:string;
     image:string;
+    keywords:string[];
+    date:string;
 }

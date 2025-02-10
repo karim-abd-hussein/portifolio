@@ -1,7 +1,7 @@
 .skills{
 
     padding: 1em;
-    background-color: var(--secondary-background-color);
+    background-color: var(--Dark-Gray-Light-Mode-Input);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -14,16 +14,17 @@
 
  display: flex;
  flex-wrap: wrap;
- max-width: 50em;
+ max-width: 60em;
+ justify-content: center;
 
 }
 
 
 .skillsContanier div{
-    background-color: var(--background-color);
+    background-color: var(--Dark-Blue-Dark-Mode-Elements);
     margin: 10px;
-    border-radius: 10px;
-    padding: 5px;
+    border-radius: 100%;
+    padding: 1.2em;
     width: fit-content;
     display: block;
     color: var(--secondary-background-color);

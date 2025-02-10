@@ -28,6 +28,7 @@ body {
 .sectionTitle{
 
   margin: 2em 0;
+  color: var(--White-Dark-Mode-Text-Light-Mode-Elements);
 
 }
 

@@ -6,6 +6,7 @@ import Contact from '../contact/Contact'
 import Footer from '../footer/Footer'
 
 import './index.css'
+import Challenages from '../challenages/Challenages'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
      <Header />
      <About />
      <Projects />
+     <Challenages />
      <Skills />
      <Contact />
      <Footer />

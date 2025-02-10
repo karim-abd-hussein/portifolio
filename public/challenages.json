@@ -47,6 +47,15 @@
         "type":"Front-end",
         "github":"https://github.com/karim-abd-hussein/age-calculator",
         "website":"https://age-calculator-sand-ten.vercel.app/"
+    },
+    {
+        "title":"Advice Generator",
+        "image":"advice-gen.jpg",
+        "description":"This is a solution to the Advice Generator challenge on Frontend Mentor, The app use theard party API for generate advice",
+        "type":"Front-end",
+        "github":"https://github.com/karim-abd-hussein/advice-generator",
+        "website":"https://karim-abd-hussein.github.io/advice-generator/"
     }
 
 ]
+

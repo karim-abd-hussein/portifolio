@@ -16,7 +16,7 @@ export default function About(){
             <p>Full Stack Developer with expertise in React.js, Node.js, databases, APIs, and responsive design. Passionate about software engineering principles, I deliver clean, scalable, and user-friendly solutions aligned with business goals.</p>
         </div>
         <div className={Styles.imgContainer}>
-        <img src='profile-image.jpg'/>
+        <img src='profile_bg.png'/>
         <p> <FontAwesomeIcon icon={faBuildingColumns} /> Damascus University|<FontAwesomeIcon icon={faLaptopCode} /> Computer Technology </p>
         <p><FontAwesomeIcon icon={faHourglassStart}/> present 2021</p>
         </div>

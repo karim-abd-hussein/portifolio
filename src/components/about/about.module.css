@@ -26,25 +26,23 @@
 
 .imgContainer{
 
-    width: 20em;
+    width: 21em;
     height: 25em;
     text-align: center;
     margin: auto;
     background-color: var(--secondary-background-color);
     border-radius: 2em;
     box-shadow: 0px 0px 3px 1px white;
+    padding: 0.5em;
 
 }
 
 .imgContainer img{
 
-    width: 80%;
-    height: 60%;
+    width: 100%;
     border-radius: 100%;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
-
 
 .imgContainer p{
 
