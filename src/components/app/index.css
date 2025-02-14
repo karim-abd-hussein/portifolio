@@ -1,3 +1,6 @@
+@import url("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css");
+
+
 :root {
 
   --background-color:hsl(207, 26%, 17%);
@@ -8,6 +11,8 @@
 --Dark-Gray-Light-Mode-Input: hsl(0, 0%, 52%);
 --Very-Light-Gray-Light-Mode-Background: hsl(0, 0%, 98%);
 --White-Dark-Mode-Text-Light-Mode-Elements: hsl(0, 0%, 100%);
+
+--max-width-media:711px;
 
 }
 
@@ -21,9 +26,10 @@
 body {
 
   background-color: var(--background-color);
-  
+  font-family:'Roboto','sans-serif';
 
 }
+
 
 .sectionTitle{
 

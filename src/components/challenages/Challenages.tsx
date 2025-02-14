@@ -25,7 +25,7 @@ return (<div className={Styles.challenagesContainer} >
                         <img src={challenage.image} alt={challenage.title} />
                         <div className={Styles.contentContainer}>
                         <div className={Styles.textContainer}>
-                        <h3>{challenage.title}</h3>
+                        <h4>{challenage.title}</h4>
                         <p>{challenage.description}</p>
                         </div>
                         <div className={Styles.externalLinks}>

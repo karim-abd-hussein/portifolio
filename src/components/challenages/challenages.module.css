@@ -21,13 +21,12 @@
 
 .card{
 
-    max-width:20em;
-    min-width: 20em;
+    min-width: 16em;
     background-color: var(--Dark-Blue-Dark-Mode-Elements);
     color: var(--White-Dark-Mode-Text-Light-Mode-Elements);
     border-radius: 15px;
     overflow: hidden;
-    min-height: 30em;
+    min-height: 25em;
     display: flex;
     flex-direction: column;
     
@@ -57,7 +56,7 @@ color: inherit;
 
 .icon{
 
-    font-size: 1.8em;
+    font-size: 1.5em;
 
 
 }
@@ -73,12 +72,12 @@ color: inherit;
 
 }
 
-.textContainer h3{
+.textContainer h4{
 
     margin:5px 0;
 }
 
 .textContainer p{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     
 }

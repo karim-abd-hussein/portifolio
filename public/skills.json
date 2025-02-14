@@ -1,45 +1,71 @@
 [
 {
-"name":"Node js"
+"name":"nodejs",
+"color":"#5FA04E"
 },
 {
-    "name":"React js"
+    "name":"reactjs",
+    "color":"#5FA04E"
 },
 {
-    "name":"Nest js"
+    "name":"Nest js",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Express js"
+    "name":"Express js",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Javascript"
+    "name":"Javascript",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Typescript"
+    "name":"Typescript",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Socket.io"
+    "name":"Socket.io",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"css"
+    "name":"css",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"HTML"
+    "name":"HTML",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"MongoDB"
+    "name":"MongoDB",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"My SQL"
+    "name":"My SQL",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Bash"
+    "name":"Bash",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Postman"
+    "name":"Postman",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 },
 {
-    "name":"Git"
+    "name":"Git",
+    "icon":"faNodeJs",
+"color":"#5FA04E"
 }
 
 ]

@@ -9,7 +9,7 @@
     "website":"https://karim-abd-hussein.github.io/Recipe/"
     },
     {
-        "title":"NFT Preview Card Component",
+        "title":"NFT Preview Card ",
         "image":"NFT-card.jpg",
         "description":"A visually appealing and interactive NFT preview card component, designed to showcase NFT details such as name, price, availability, and creator information. Built with HTML and CSS, this component includes hover effects and is fully responsive.",
         "type":"Front-end",
@@ -25,7 +25,7 @@
         "website":"https://karim-abd-hussein.github.io/profile-card/"
     },
     {
-        "title":"Product Preview Card Component",
+        "title":"Product Preview Card ",
         "image":"product-preview-card.png",
         "description":"This project is a responsive product preview card component built as part of a challenge on Frontend Mentor. The card features a perfume product with details including name, description, pricing, and an 'Add to Cart' button.",
         "type":"Front-end",
@@ -33,7 +33,7 @@
         "website":"https://karim-abd-hussein.github.io/product-card/"
     },
     {
-        "title":"Results Summary Component",
+        "title":"Results Summary ",
         "image":"results-summary.jpg",
         "description":"This challenge involves creating a responsive results summary component based on the provided design and specifications.",
         "type":"Front-end",

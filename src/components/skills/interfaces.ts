@@ -1,5 +1,8 @@
-export interface Skill {
+import { IconProp } from "@fortawesome/fontawesome-svg-core";
 
-    name:String;
+export interface ISkill{
+
+    name:string;
+    color:string;
 
 }
